@@ -12,3 +12,4 @@ const Habilidades = () => (
 );
 
 export default Habilidades;
+// Forzar redeploy en Vercel
